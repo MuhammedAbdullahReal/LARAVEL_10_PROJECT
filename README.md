@@ -2,4 +2,4 @@
 
 # Project Idea With Live Wire
 
-1.User can Create a new help ticket.
+1. User can Create a new help ticket.
